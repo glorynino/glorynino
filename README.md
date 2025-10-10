@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Neil and I'm a CyberSecurity student, from Algeria</h2>
+<h2 align="left">My name is Neil and I'm a CyberSecurity student</h2>
 
 ###
 
