@@ -2,8 +2,8 @@
 -------------------------------
 
 👋I'm a CyberSecurity student at USTHB. 
--I use ReactJS/Tailwid for frontend.
--i use pytorch , pandas , sckit-learn for ML 
+I use ReactJS/Tailwid for frontend.
+I use pytorch , pandas , sckit-learn for ML 
  
 
 * ✉️  You can contact me at [neil.isso10@gmail.com](mailto:neil.isso10@gmail.com)
