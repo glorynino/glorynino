@@ -3,12 +3,12 @@
 ---
 
 👋 I'm **Neil**, a **CyberSecurity student at USTHB**.  
-I love building things that mix **web development**, **machine learning**, and **security**.  
+I love building things that combine **web development** and **security**, with a strong focus on clean design and reliable systems.  
 
-- 🌐 I use **ReactJS** + **TailwindCSS** for frontend  
-- 🧠 I work with **PyTorch**, **Pandas**, and **Scikit-learn** for ML  
-- 🛡️ My long-term goal: become one of the best in **CyberSecurity & AI**  
-- ✉️ You can reach me at **[neil.isso10@gmail.com](mailto:neil.isso10@gmail.com)**  
+- 🧠 Currently learning **network security** and **ethical hacking**  
+- 🌐 I use **ReactJS + TailwindCSS + TypeScript + ExpressJS + PostgreSQL**  
+- 🧰 Familiar with **Python** and **CyberSecurity tools & concepts (e.g., Scapy, network analysis, penetration testing)**  
+- ✉️ Contact me: **[neil.isso10@gmail.com](mailto:neil.isso10@gmail.com)**  
 
 ---
 
@@ -17,21 +17,18 @@ I love building things that mix **web development**, **machine learning**, and *
 ### 🧩 I Use
 <p align="center">
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://img.icons8.com/fluent-systems-filled/200/FFFFFF/nextjs.png" width="40" height="40"/></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
   <a href="https://expressjs.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="40" height="40" style="filter: invert(1);"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a>
 </p>
 
 ### 🧠 Familiar With
 <p align="center">
-  <a href="https://www.php.net" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/></a>
-  <a href="https://laravel.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+  <a href="https://owasp.org/" target="_blank"><img src="https://cydrill.com/wp-content/uploads/owasp_logo_flat2_icon.png" width="40" height="40" title="OWASP - Web Security"/></a>
+  <a href="https://www.kali.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="40" height="40" title="Kali Linux"/></a>
+  <a href="https://www.wireshark.org/" target="_blank"><img src="https://cdn.imgbin.com/18/1/22/imgbin-wireshark-packet-analyzer-computer-software-protocol-analyzer-leopard-shark-VJNRhAwUuFHYb8pGVXWiKRUQk.jpg" width="40" height="40" title="Wireshark - Network Analysis"/></a>
 </p>
 
 ---
