@@ -14,7 +14,7 @@ I love building things that combine **web development** and **security**, with a
 
 <h2 align="center">⚙️ Languages and Tools ⚙️</h2>
 
-### 🧩 I Use
+### I Use
 <p align="center">
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
@@ -23,7 +23,7 @@ I love building things that combine **web development** and **security**, with a
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a>
 </p>
 
-### 🧠 Familiar With
+###  Familiar With
 <p align="center">
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
   <a href="https://owasp.org/" target="_blank"><img src="https://cydrill.com/wp-content/uploads/owasp_logo_flat2_icon.png" width="40" height="40" title="OWASP - Web Security"/></a>
@@ -33,7 +33,7 @@ I love building things that combine **web development** and **security**, with a
 
 ---
 
-<h2 align="center">🌐 Connect With Me</h2>
+<h2 align="center">Connect With Me</h2>
 
 <p align="center">
   <a href="https://github.com/glorynino" target="_blank">
@@ -46,7 +46,7 @@ I love building things that combine **web development** and **security**, with a
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=glorynino&theme=aura&hide_border=false" /><br/>
