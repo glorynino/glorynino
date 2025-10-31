@@ -1,20 +1,27 @@
-<h1 align="center">💻 A Passionate Developer 💻</h1>
+<h1 align="center">💻 Neil | CyberSecurity & Web Developer 💻</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=00FF80&center=true&vCenter=true&width=500&lines=CyberSecurity+Student+@USTHB;Fullstack+Developer;ReactJS+%7C+TypeScript+%7C+TailwindCSS;Ethical+Hacking+Enthusiast;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 ---
 
-👋 I'm **Neil**, a **CyberSecurity student at USTHB**.  
-I love building things that combine **web development** and **security**, with a strong focus on clean design and reliable systems.  
+### 👋 About Me
 
-- 🧠 Currently learning **network security** and **ethical hacking**  
-- 🌐 I use **ReactJS + TailwindCSS + TypeScript + ExpressJS + PostgreSQL**  
-- 🧰 Familiar with **Python** and **CyberSecurity tools & concepts (e.g., Scapy, network analysis, penetration testing)**  
-- ✉️ Contact me: **[neil.isso10@gmail.com](mailto:neil.isso10@gmail.com)**  
+I'm **Neil**, a passionate **CyberSecurity student at USTHB**.  
+I love building secure and performant web apps that mix **web dev** and **security** concepts.  
+
+- 🔐 Exploring **Network Security** and **Ethical Hacking**  
+- ⚙️ Building with **ReactJS + TailwindCSS + TypeScript + ExpressJS + PostgreSQL**  
+- 🧠 Interested in **Machine Learning for Security**  
+- 🧰 Also comfortable with **Python**, **Scapy**, and **PenTesting tools**  
+- ✉️ Reach me at: [**neil.isso10@gmail.com**](mailto:neil.isso10@gmail.com)
 
 ---
 
-<h2 align="center">⚙️ Languages and Tools ⚙️</h2>
+<h2 align="center">⚙️ Tech Stack ⚙️</h2>
 
-### I Use
+#### 🧩 I Use
 <p align="center">
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
@@ -23,17 +30,28 @@ I love building things that combine **web development** and **security**, with a
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a>
 </p>
 
-###  Familiar With
+#### 🧠 Familiar With
 <p align="center">
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
   <a href="https://owasp.org/" target="_blank"><img src="https://cydrill.com/wp-content/uploads/owasp_logo_flat2_icon.png" width="40" height="40" title="OWASP - Web Security"/></a>
   <a href="https://www.kali.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="40" height="40" title="Kali Linux"/></a>
-  <a href="https://www.wireshark.org/" target="_blank"><img src="https://cdn.imgbin.com/18/1/22/imgbin-wireshark-packet-analyzer-computer-software-protocol-analyzer-leopard-shark-VJNRhAwUuFHYb8pGVXWiKRUQk.jpg" width="40" height="40" title="Wireshark - Network Analysis"/></a>
+  <a href="https://www.wireshark.org/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/wireshark_logo_icon_168156.png" width="40" height="40" title="Wireshark - Network Analysis"/></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
 </p>
 
 ---
 
-<h2 align="center">Connect With Me</h2>
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=glorynino&show_icons=true&theme=merko&hide_border=false" alt="GitHub Stats" /><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=glorynino&theme=merko&hide_border=false" alt="GitHub Streak" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glorynino&theme=merko&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" />
+</p>
+
+---
+
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
   <a href="https://github.com/glorynino" target="_blank">
@@ -46,9 +64,4 @@ I love building things that combine **web development** and **security**, with a
 
 ---
 
-<h2 align="center">GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=glorynino&theme=aura&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glorynino&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
+<h3 align="center">“Stay curious, stay ethical, and always keep learning.” ⚡</h3>
