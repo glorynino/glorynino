@@ -35,8 +35,6 @@ I love building secure and performant web apps that mix **web dev** and **securi
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
   <a href="https://owasp.org/" target="_blank"><img src="https://cydrill.com/wp-content/uploads/owasp_logo_flat2_icon.png" width="40" height="40" title="OWASP - Web Security"/></a>
   <a href="https://www.kali.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="40" height="40" title="Kali Linux"/></a>
-  <a href="https://www.wireshark.org/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/wireshark_logo_icon_168156.png" width="40" height="40" title="Wireshark - Network Analysis"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
 </p>
 
 ---
