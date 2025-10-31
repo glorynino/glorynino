@@ -64,4 +64,7 @@ I love building secure and performant web apps that mix **web dev** and **securi
 
 ---
 
-<h3 align="center">“Stay curious, stay ethical, and always keep learning.” ⚡</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=8B0000&center=true&vCenter=true&width=1000&lines=The+quieter+you+become,+the+more+you+are+able+to+hear" alt="Typing SVG" />
+
+</p>
