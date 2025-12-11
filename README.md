@@ -41,13 +41,16 @@ I love building secure and performant web apps that mix **web dev** and **securi
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=glorynino&show_icons=true&theme=merko&hide_border=false" alt="GitHub Stats" /><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=glorynino&theme=merko&hide_border=false" alt="GitHub Streak" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glorynino&theme=merko&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" />
-</p>
+<div align="center">
 
----
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=glorynino&show_icons=true&theme=merko&hide_border=false)](https://github.com/glorynino)
+
+[![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=glorynino&theme=merko&hide_border=false)](https://github.com/glorynino)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glorynino&layout=compact&langs_count=8&theme=merko&hide_border=false)](https://github.com/glorynino)
+
+</div>
+
 
 <h2 align="center">🌐 Connect With Me</h2>
 
@@ -59,8 +62,6 @@ I love building secure and performant web apps that mix **web dev** and **securi
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" width="40" height="40"/>
   </a>
 </p>
-
----
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=8B0000&center=true&vCenter=true&width=1000&lines=The+quieter+you+become,+the+more+you+are+able+to+hear" alt="Typing SVG" />
