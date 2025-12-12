@@ -37,21 +37,6 @@ I love building secure and performant web apps that mix **web dev** and **securi
   <a href="https://www.kali.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="40" height="40" title="Kali Linux"/></a>
 </p>
 
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=glorynino&show_icons=true&theme=merko&hide_border=false)](https://github.com/glorynino)
-
-[![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=glorynino&theme=merko&hide_border=false)](https://github.com/glorynino)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glorynino&layout=compact&langs_count=8&theme=merko&hide_border=false)](https://github.com/glorynino)
-
-</div>
-
-
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
