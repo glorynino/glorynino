@@ -37,6 +37,21 @@ I love building secure and performant web apps that mix **web dev** and **securi
   <a href="https://www.kali.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="40" height="40" title="Kali Linux"/></a>
 </p>
 
+#### 📊 GitHub Stats
+
+<div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 2rem; flex-wrap: wrap; background-color: #1E3A8A; padding: 20px; border-radius: 5px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=glorynino&show_icons=true&locale=en&theme=radical&hide=contribs" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=glorynino&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+</div>
+
+<div align="center" style="background-color: #1E3A8A; padding: 20px; border-radius: 5px;">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=glorynino&theme=radical" alt="GitHub Streak" />
+</div>
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=glorynino&theme=radical" alt="GitHub Contributions"/>
+</p>
+
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
