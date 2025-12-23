@@ -6,7 +6,7 @@
 
 ---
 
-### 👋 About Me!
+### 👋 About Me
 
 I'm **Neil**, a passionate **CyberSecurity student at USTHB**.  
 I love building secure and performant web apps that mix **web dev** and **security** concepts.  
