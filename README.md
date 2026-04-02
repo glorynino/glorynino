@@ -48,9 +48,9 @@ I love building secure and performant web apps that mix **web dev** and **securi
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=glorynino&theme=radical" alt="GitHub Streak" />
 </div>
-<p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=glorynino&theme=radical" alt="GitHub Contributions"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=glorynino&theme=react-dark&custom_title=Contribution-Activity&color=EC4899&line=7C3AED&bg_color=151515&days=60" />
+</div>
 
 <h2 align="center">🌐 Connect With Me</h2>
 
